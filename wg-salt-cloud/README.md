@@ -8,6 +8,10 @@ This WG works on Salt's ability to interact with cloud providers to provision an
 
 * [Subscribe to the full calendar of events for the Salt Cloud WG](https://calendar.google.com/calendar/ical/saltstack.com_3630q8n2ii0v98fedq1fbgl4nk%40group.calendar.google.com/public/basic.ics)
 
+## Communication
+
+* [A Gittr channel is used for realtime communication](https://gitter.im/saltstack/salt-cloud)
+
 ## Leads
 
 * Daniel Wallace (**[@gtmanfred](https://github.com/gtmanfred)**), SaltStack
