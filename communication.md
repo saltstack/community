@@ -3,7 +3,7 @@
 The SaltStack community has a [Code of Conduct]. All community members must abide by
 this code.
 
-## WOGs
+## Working Groups
 
 The SaltStack project is vast and is organized around areas of interest called "Working Groups".
 
