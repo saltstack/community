@@ -12,5 +12,5 @@ It also handles the supporting documentation application code used for building 
 
 ## Leads
 
-* Leadership needed
+* Leadership needed. See issue #1
 
