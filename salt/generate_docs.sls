@@ -2,7 +2,7 @@
 
 {%- set community_repo = '/'.join(opts['file_root'].split('/')[:-1]) %}
 
-{% for group, settings in wg.workgroups.iteritems() %}
+{% for group, settings in wg.workgroups.items() %}
 add_{{ group }}_README:
   file.managed:
     - name: {{ community_repo }}/proposed-wg/wg-{{ group }}/README.md
