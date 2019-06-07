@@ -1,4 +1,32 @@
 contributors:
+  'Daniel Wallace':
+    git_link: https://github.com/gtmanfred
+  'Swaminathan':
+    git_link: https://github.com/swamguru
+  'Nick Garber':
+    git_link: https://github.com/nickgarber
+  'Ben Gridley':
+    git_link: https://github.com/bgridley
+  'Cedric Bosdonnat':
+    git_link: https://github.com/cbosdo
+  'Adam C. Greenfield':
+    git_link: https://github.com/admgre
+  'Peter Norton':
+    git_link: https://github.com/pcn
+  'Vernon Cole':
+    git_link: https://github.com/vernondcole
+  'Prashanth Goud B':
+    git_link: https://github.com/prashanthbgoud
+
+  'Wesley Whetstone':
+    git_link: https://github.com/weswhet
+  Joaquín:
+    git_link: https://github.com/lctrkid
+  'Brian LaShomb':
+    git_link: https://github.com/lashomb
+  'Shea Craig':
+    git_link: https://github.com/sheagcraig
+
   Shane:
     git_link: https://github.com/twangboy
   'Prashant Goud B':
@@ -15,6 +43,38 @@ contributors:
     git_link: https://github.com/cmcmarrow
 
 workgroups:
+  Cloud:
+    captain: 'Daniel Wallace'
+    contributors:
+      - 'Swaminathan'
+      - 'Nick Garber'
+      - 'Ben Gridley'
+      - 'Cedric Bosdonnat'
+      - 'Adam C. Greenfield'
+      - 'Peter Norton'
+      - 'Vernon Cole'
+      - 'Prashanth Goud B'
+    project_board: https://github.com/saltstack/community/projects/1
+    contacts:
+      Slack: https://saltstackcommunity.slack.com/messages/C7KKMMYDQ/
+      'Google Group': https://groups.google.com/forum/#!forum/salt-cloud
+    meeting_details: []
+    notes: []
+
+  MacOS:
+    captain: 'Wesley Whetstone'
+    contributors:
+      - 'Joaquín'
+      - 'Brian LaShomb'
+      - 'Shea Craig'
+    project_board: https://github.com/saltstack/community/projects/2
+    contacts:
+      Slack: https://saltstackcommunity.slack.com/messages/C8VH92RJT
+      'Google Group': https://groups.google.com/a/saltstack.com/d/forum/salt-mac
+    meeting_details:
+      - '[11 pm 3rd Tuesday of every month](https://zoom.us/j/608412316)'
+    notes: []
+
   Windows:
     captain: Shane
     contributors:
