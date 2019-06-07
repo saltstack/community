@@ -1,15 +1,16 @@
-{%- import_yaml "wg.yaml" as wg %}
+{%- import_yaml "work_group_raw_data.yaml" as wg %}
 
 {%- set community_repo = '/'.join(opts['file_root'].split('/')[:-1]) %}
 
-{% for group, settings in wg.workgroups.items() %}
+{% for group, info in wg.workgroups.items() %}
 add_{{ group }}_README:
   file.managed:
     - name: {{ community_repo }}/proposed-wg/wg-{{ group }}/README.md
-    - source: salt://README.md
+    - source: salt://group_template.sls
     - makedirs: True
     - template: jinja
     - context:
         group: {{ group }}
-        settings: {{ settings |json }}
+        info: {{ info |json }}
+        contributors: {{ wg.contributors |json}}
 {%- endfor %}

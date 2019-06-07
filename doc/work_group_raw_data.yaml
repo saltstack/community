@@ -1,0 +1,22 @@
+contributors:
+  Shane:
+    git_link: test
+  P2:
+    git_link: this
+
+workgroups:
+  cloud:
+    captain: Daniel
+    contributors:
+      - person1
+      - person2
+  windows:
+    captain: Shane
+    contributors:
+      - person13
+      - person22
+  ssh:
+    captain: Megan
+    contributors:
+      - person52
+      - person4

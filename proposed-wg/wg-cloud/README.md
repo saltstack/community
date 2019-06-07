@@ -1,3 +1,5 @@
-TEST README for  cloud
+cloud Working Group
 
-The captain is Daniel
+Captain: Daniel
+{'git_link': 'test'}
+{'P2': {'git_link': 'this'}, 'Shane': {'git_link': 'test'}}

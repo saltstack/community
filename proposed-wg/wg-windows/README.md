@@ -1,3 +1,5 @@
-TEST README for  windows
+windows Working Group
 
-The captain is Shane
+Captain: Shane
+{'git_link': 'test'}
+{'P2': {'git_link': 'this'}, 'Shane': {'git_link': 'test'}}
