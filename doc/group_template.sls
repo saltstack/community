@@ -15,3 +15,13 @@
 {%- for link_name in info.contacts %}
 * [{{ link_name }}]({{ info.contacts[link_name] }})
 {%- endfor %}
+
+## Meeting Details
+{%- for detail in info.meeting_details %}
+* {{ detail }}
+{%- endfor %}
+
+## Notes
+{%- for note in info.notes %}
+* {{ note }}
+{%- endfor %}

@@ -15,5 +15,9 @@
 [Github Project](https://github.com/saltstack/community/projects/4)
 
 ## Contact
-* [Google Group](https://groups.google.com/a/saltstack.com/forum/#!forum/salt-windows)
 * [Slack](https://saltstackcommunity.slack.com/messages/C7U9FLK8S)
+* [Google Group](https://groups.google.com/a/saltstack.com/forum/#!forum/salt-windows)
+
+## Meeting Details
+
+## Notes
