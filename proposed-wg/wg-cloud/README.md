@@ -1,5 +1,10 @@
-cloud Working Group
+## Cloud Working Group
 
-Captain: Daniel
-{'git_link': 'test'}
-{'P2': {'git_link': 'this'}, 'Shane': {'git_link': 'test'}}
+# Captain
+[Daniel]
+
+# Participants:
+Daniel: this
+P1: this
+P2: this
+Shane: https://github.com/twangboy

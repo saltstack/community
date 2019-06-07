@@ -1,5 +1,10 @@
-windows Working Group
+## Windows Working Group
 
-Captain: Shane
-{'git_link': 'test'}
-{'P2': {'git_link': 'this'}, 'Shane': {'git_link': 'test'}}
+# Captain
+[Shane]
+
+# Participants:
+Daniel: this
+P1: this
+P2: this
+Shane: https://github.com/twangboy
