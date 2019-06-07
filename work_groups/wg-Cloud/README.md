@@ -17,8 +17,8 @@
 [Github Project](https://github.com/saltstack/community/projects/1)
 
 ## Contact
-* [Slack](https://saltstackcommunity.slack.com/messages/C7KKMMYDQ/)
 * [Google Group](https://groups.google.com/forum/#!forum/salt-cloud)
+* [Slack](https://saltstackcommunity.slack.com/messages/C7KKMMYDQ/)
 
 ## Meeting Details
 
