@@ -69,6 +69,13 @@ contributors:
   'Balvinder Singh Rawat':
     git_link: https://github.com/balrawat
 
+homepage:
+  term: 1
+  timeline:
+    - 'Working group announced  May 31st'
+    - 'Working group convenes June 15th'
+    - 'Working group dissolves  Next major release (Sodium)'
+
 workgroups:
   Cloud:
     captain: 'Daniel Wallace'

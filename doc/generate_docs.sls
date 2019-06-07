@@ -14,3 +14,14 @@ add_{{ group }}_README:
         info: {{ info }}
         contributors: {{ wg.contributors }}
 {%- endfor %}
+
+add_home_page_README:
+  file.managed:
+    - name: {{ community_repo }}/README.md
+    - source: salt://home_page_template.sls
+    - makedirs: True
+    - template: jinja
+    - context:
+        contributors: {{ wg.contributors}}
+        homepage: {{ wg.homepage}}
+        workgroups: {{ wg.workgroups }}
