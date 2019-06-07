@@ -1,5 +1,5 @@
 # SaltStack Community
-## Term 1 timeline
-* Working group announced  May 31st
-* Working group convenes June 15th
-* Working group dissolves  Next major release (Sodium)
+## Term 1 Timeline
+* Working group announced\\t**May 31st**
+* Working group convenes\\t**June 15th**
+* Working group dissolves\\t**Next major release (Sodium)**
