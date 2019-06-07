@@ -1,9 +1,9 @@
-## Cloud Working Group
+# Cloud Working Group
 
-# Captain
+## Captain
 [Daniel]
 
-# Participants:
+## Participants:
 Daniel: this
 P1: this
 P2: this

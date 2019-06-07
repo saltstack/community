@@ -1,9 +1,9 @@
-## Windows Working Group
+# Windows Working Group
 
-# Captain
+## Captain
 [Shane]
 
-# Participants:
+## Participants:
 Daniel: this
 P1: this
 P2: this

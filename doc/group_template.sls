@@ -1,9 +1,10 @@
-## {{ group }} Working Group
+# {{ group }} Working Group
 
-# Captain
+## Captain
 [{{ info.captain }}]
 
-# Participants:
+## Participants:
 {%- for name, info in contributors.items() %}
 {{name}}: {{info.git_link}}
+
 {%- endfor %}
