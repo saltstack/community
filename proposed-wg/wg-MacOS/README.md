@@ -12,8 +12,8 @@
 [Github Project](https://github.com/saltstack/community/projects/2)
 
 ## Contact
-* [Google Group](https://groups.google.com/a/saltstack.com/d/forum/salt-mac)
 * [Slack](https://saltstackcommunity.slack.com/messages/C8VH92RJT)
+* [Google Group](https://groups.google.com/a/saltstack.com/d/forum/salt-mac)
 
 ## Meeting Details
 * [11 pm 3rd Tuesday of every month](https://zoom.us/j/608412316)
