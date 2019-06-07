@@ -5,9 +5,9 @@
 * Working group dissolves **Next major release (Sodium)**
 
 ## Working Groups
-* [Windows](community/work_groups/wg-Windows/README.md):[Shane](https://github.com/twangboy)
-* [SSH](community/work_groups/wg-SSH/README.md):[Megan Wilhite](https://github.com/ch3ll)
-* [Testing](community/work_groups/wg-Testing/README.md):[Mihai Dinca](https://github.com/dincamihai)
-* [Cloud](community/work_groups/wg-Cloud/README.md):[Daniel Wallace](https://github.com/gtmanfred)
-* [Networking](community/work_groups/wg-Networking/README.md):[Mircea Ulinic](None)
-* [MacOS](community/work_groups/wg-MacOS/README.md):[Wesley Whetstone](https://github.com/weswhet)
+* [Windows](https://github.com/saltstack/community/work_groups/Windows.md): [Shane[(https://github.com/twangboy)
+* [Networking](https://github.com/saltstack/community/work_groups/Networking.md): [Mircea Ulinic[(None)
+* [Testing](https://github.com/saltstack/community/work_groups/Testing.md): [Mihai Dinca[(https://github.com/dincamihai)
+* [SSH](https://github.com/saltstack/community/work_groups/SSH.md): [Megan Wilhite[(https://github.com/ch3ll)
+* [MacOS](https://github.com/saltstack/community/work_groups/MacOS.md): [Wesley Whetstone[(https://github.com/weswhet)
+* [Cloud](https://github.com/saltstack/community/work_groups/Cloud.md): [Daniel Wallace[(https://github.com/gtmanfred)

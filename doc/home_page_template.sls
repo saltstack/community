@@ -5,7 +5,8 @@
 {%- endfor %}
 
 ## Working Groups
-{%- set community_repo = '/'.join(opts['file_root'].split('/')[:-1]) %}
 {%- for group, info in workgroups.items() %}
-* [{{ group }}](community/work_groups/wg-{{ group }}/README.md):[{{ info.captain }}]({{ contributors[info.captain]['git_link'] }})
+{%- set group_link = '[' + group + '](https://github.com/saltstack/community/work_groups/' + group + '.md)' %}
+{%- set captain_link =  '[' + info.captain + '[(' + contributors[info.captain]['git_link'] + ')' %}
+* {{ group_link }}: {{ captain_link }}
 {%- endfor %}
