@@ -3,7 +3,11 @@
 ## Captain
 [Daniel]
 
-## Participants:
+## Participants
+*[person1]
+*[person2]
+
+
 Daniel: this
 P1: this
 P2: this

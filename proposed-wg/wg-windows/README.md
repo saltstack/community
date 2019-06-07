@@ -3,7 +3,11 @@
 ## Captain
 [Shane]
 
-## Participants:
+## Participants
+*[person13]
+*[person22]
+
+
 Daniel: this
 P1: this
 P2: this
