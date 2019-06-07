@@ -1,22 +1,30 @@
 contributors:
   Shane:
     git_link: https://github.com/twangboy
-  P2:
-    git_link: https://github.com/twangboy
-  P1:
-    git_link: https://github.com/twangboy
-  Daniel:
-    git_link: https://github.com/twangboy
-
+  'Prashant Goud B':
+    git_link: https://github.com/prashanthbgoud
+  'Rares POP':
+    git_link: https://github.com/rares-pop
+  'rigel marcinik':
+    git_link: https://github.com/rmarcinik
+  'Markus':
+     git_link: NULL
+  'Joseph Eacott':
+    git_link: https://github.com/xeacott
+  'Chad McMarrow':
+    git_link: https://github.com/cmcmarrow
 
 workgroups:
-  Cloud:
-    captain: Daniel
-    contributors:
-      - P1
-      - P2
   Windows:
     captain: Shane
     contributors:
-      - P1
-      - P2
+      - 'Prashant Goud B'
+      - 'Rares POP'
+      - 'rigel marcinik'
+      - 'Markus'
+      - 'Joseph Eacott'
+      - 'Chad McMarrow'
+    project_board: https://github.com/saltstack/community/projects/4
+    contacts:
+      Slack: https://saltstackcommunity.slack.com/messages/C7U9FLK8S
+      'Google Group': https://groups.google.com/a/saltstack.com/forum/#!forum/salt-windows
