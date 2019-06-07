@@ -42,6 +42,17 @@ contributors:
   'Chad McMarrow':
     git_link: https://github.com/cmcmarrow
 
+  'Mihai Dinca':
+    git_link: https://github.com/dincamihai
+  'Pablo Suárez Hernández':
+    git_link: https://github.com/meaksh
+  'Jochen Breuer':
+    git_link: https://github.com/brejoc
+  'Alberto Planas':
+    git_link: https://github.com/aplanas
+
+
+
 workgroups:
   Cloud:
     captain: 'Daniel Wallace'
@@ -89,4 +100,19 @@ workgroups:
       Slack: https://saltstackcommunity.slack.com/messages/C7U9FLK8S
       'Google Group': https://groups.google.com/a/saltstack.com/forum/#!forum/salt-windows
     meeting_details: []
+    notes: []
+
+  Testing:
+    captain: 'Mihai Dinca'
+    contributors:
+      - 'Pablo Suárez Hernández'
+      - 'Jochen Breuer'
+      - 'Alberto Planas'
+      - 'Swaminathan'
+    project_board: https://github.com/saltstack/community/projects/6
+    contacts:
+      Slack: https://saltstackcommunity.slack.com/messages/C7KKN9P6W
+      'Google Group': https://groups.google.com/a/saltstack.com/forum/#!forum/salt-testing
+    meeting_details:
+      - '[9 AM MT, Every month on the Second Wed](https://zoom.us/j/118522625)'
     notes: []
