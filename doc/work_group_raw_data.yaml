@@ -51,7 +51,23 @@ contributors:
   'Alberto Planas':
     git_link: https://github.com/aplanas
 
+  'Mircea Ulinic':
+    git_link: NULL
+  'Andrew Dampf':
+    git_link: https://github.com/wasabi222
+  'Yeshwanth Ambati':
+    git_link: https://github.com/Network
+  'Lawrence Bird':
+    git_link: https://github.com/TheBirdsNest
+  'Chad Geary':
+    git_link: https://github.com/chadgeary
+  'Wayne Werner':
+    git_link: https://github.com/waynew
 
+  'Megan Wilhite':
+    git_link: https://github.com/ch3ll
+  'Balvinder Singh Rawat':
+    git_link: https://github.com/balrawat
 
 workgroups:
   Cloud:
@@ -115,4 +131,40 @@ workgroups:
       'Google Group': https://groups.google.com/a/saltstack.com/forum/#!forum/salt-testing
     meeting_details:
       - '[9 AM MT, Every month on the Second Wed](https://zoom.us/j/118522625)'
+    notes: []
+
+  Networking:
+    captain: 'Mircea Ulinic'
+    contributors:
+      - 'Alberto Planas'
+      - 'Andrew Dampf'
+      - 'Jochen Breuer'
+      - 'Pablo Suárez Hernández'
+      - 'Mihai Dinca'
+      - 'Yeshwanth Ambati'
+      - 'Lawrence Bird'
+      - 'Chad Geary'
+      - 'Swaminathan'
+      - 'Wayne Werner'
+    project_board: https://github.com/saltstack/community/projects/7
+    contacts:
+      Slack: https://saltstackcommunity.slack.com/messages/C7KPR0ZDK
+      'Google Group': https://groups.google.com/forum/#!forum/salt-networks
+    meeting_details: []
+    notes: []
+
+  SSH:
+    captain: 'Megan Wilhite'
+    contributors:
+      - 'Chad Geary'
+      - 'Swaminathan'
+      - 'Jochen Breuer'
+      - 'Pablo Suárez Hernández'
+      - 'Mihai Dinca'
+      - 'Balvinder Singh Rawat'
+    project_board: https://github.com/saltstack/community/projects/8
+    contacts:
+      Slack: https://saltstackcommunity.slack.com/messages/CK7LFCW92
+      'Google Group': https://groups.google.com/a/saltstack.com/forum/#!forum/salt-ssh
+    meeting_details: []
     notes: []

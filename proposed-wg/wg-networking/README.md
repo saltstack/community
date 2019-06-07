@@ -1,14 +1,27 @@
 # Networking Working Group
 
-This working group handles all Salt interfaces with networking hardware and software. Its primary focus is salt-proxy.
+## Captain
+[Mircea Ulinic](None)
 
-## Meetings
+## Participants
+* [Alberto Planas](https://github.com/aplanas)
+* [Andrew Dampf](https://github.com/wasabi222)
+* [Jochen Breuer](https://github.com/brejoc)
+* [Pablo Suárez Hernández](https://github.com/meaksh)
+* [Mihai Dinca](https://github.com/dincamihai)
+* [Yeshwanth Ambati](https://github.com/Network)
+* [Lawrence Bird](https://github.com/TheBirdsNest)
+* [Chad Geary](https://github.com/chadgeary)
+* [Swaminathan](https://github.com/swamguru)
+* [Wayne Werner](https://github.com/waynew)
 
-* [Meetings take place on the fifth day of every month at 18:00 UTC](https://hangouts.google.com/hangouts/_/saltstack.com/salt-networking-wg?authuser=0)
+## Project Board
+[Github Project](https://github.com/saltstack/community/projects/7)
 
-* [Subscribe to the full calendar of events for the Documentation WG](https://calendar.google.com/calendar/ical/saltstack.com_vjjkd97e21hvru2t9tr6uqsqnc%40group.calendar.google.com/public/basic.ics)
+## Contact
+* [Slack](https://saltstackcommunity.slack.com/messages/C7KPR0ZDK)
+* [Google Group](https://groups.google.com/forum/#!forum/salt-networks)
 
-## Leads
+## Meeting Details
 
-* Leadership needed. See issue #2
-
+## Notes
