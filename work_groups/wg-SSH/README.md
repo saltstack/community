@@ -15,8 +15,8 @@
 [Github Project](https://github.com/saltstack/community/projects/8)
 
 ## Contact
-* [Google Group](https://groups.google.com/a/saltstack.com/forum/#!forum/salt-ssh)
 * [Slack](https://saltstackcommunity.slack.com/messages/CK7LFCW92)
+* [Google Group](https://groups.google.com/a/saltstack.com/forum/#!forum/salt-ssh)
 
 ## Meeting Details
 
