@@ -2,21 +2,21 @@ contributors:
   Shane:
     git_link: https://github.com/twangboy
   P2:
-    git_link: this
+    git_link: https://github.com/twangboy
   P1:
-    git_link: this
+    git_link: https://github.com/twangboy
   Daniel:
-    git_link: this
+    git_link: https://github.com/twangboy
 
 
 workgroups:
   Cloud:
     captain: Daniel
     contributors:
-      - person1
-      - person2
+      - P1
+      - P2
   Windows:
     captain: Shane
     contributors:
-      - person13
-      - person22
+      - P1
+      - P2

@@ -1,14 +1,8 @@
 # Cloud Working Group
 
 ## Captain
-[Daniel]
+[Daniel](https://github.com/twangboy)
 
 ## Participants
-*[person1]
-*[person2]
-
-
-Daniel: this
-P1: this
-P2: this
-Shane: https://github.com/twangboy
+* [P1](https://github.com/twangboy)
+* [P2](https://github.com/twangboy)

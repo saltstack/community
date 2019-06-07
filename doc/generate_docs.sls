@@ -11,6 +11,6 @@ add_{{ group }}_README:
     - template: jinja
     - context:
         group: {{ group }}
-        info: {{ info |json }}
-        contributors: {{ wg.contributors |json}}
+        info: {{ info }}
+        contributors: {{ wg.contributors }}
 {%- endfor %}

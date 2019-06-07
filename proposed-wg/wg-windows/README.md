@@ -1,14 +1,8 @@
 # Windows Working Group
 
 ## Captain
-[Shane]
+[Shane](https://github.com/twangboy)
 
 ## Participants
-*[person13]
-*[person22]
-
-
-Daniel: this
-P1: this
-P2: this
-Shane: https://github.com/twangboy
+* [P1](https://github.com/twangboy)
+* [P2](https://github.com/twangboy)
