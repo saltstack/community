@@ -10,3 +10,8 @@
 
 ## Project Board
 [Github Project]({{ info.project_board }})
+
+## Contact
+{%- for link_name in info.contacts %}
+* [{{ link_name }}]({{ info.contacts[link_name] }})
+{%- endfor %}
