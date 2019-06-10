@@ -1,74 +1,3 @@
-contributors:
-  'Daniel Wallace':
-    git_link: https://github.com/gtmanfred
-  'Swaminathan':
-    git_link: https://github.com/swamguru
-  'Nick Garber':
-    git_link: https://github.com/nickgarber
-  'Ben Gridley':
-    git_link: https://github.com/bgridley
-  'Cedric Bosdonnat':
-    git_link: https://github.com/cbosdo
-  'Adam C. Greenfield':
-    git_link: https://github.com/admgre
-  'Peter Norton':
-    git_link: https://github.com/pcn
-  'Vernon Cole':
-    git_link: https://github.com/vernondcole
-  'Prashanth Goud B':
-    git_link: https://github.com/prashanthbgoud
-
-  'Wesley Whetstone':
-    git_link: https://github.com/weswhet
-  Joaquín:
-    git_link: https://github.com/lctrkid
-  'Brian LaShomb':
-    git_link: https://github.com/lashomb
-  'Shea Craig':
-    git_link: https://github.com/sheagcraig
-
-  Shane:
-    git_link: https://github.com/twangboy
-  'Prashant Goud B':
-    git_link: https://github.com/prashanthbgoud
-  'Rares POP':
-    git_link: https://github.com/rares-pop
-  'rigel marcinik':
-    git_link: https://github.com/rmarcinik
-  'Markus':
-     git_link: NULL
-  'Joseph Eacott':
-    git_link: https://github.com/xeacott
-  'Chad McMarrow':
-    git_link: https://github.com/cmcmarrow
-
-  'Mihai Dinca':
-    git_link: https://github.com/dincamihai
-  'Pablo Suárez Hernández':
-    git_link: https://github.com/meaksh
-  'Jochen Breuer':
-    git_link: https://github.com/brejoc
-  'Alberto Planas':
-    git_link: https://github.com/aplanas
-
-  'Mircea Ulinic':
-    git_link: NULL
-  'Andrew Dampf':
-    git_link: https://github.com/wasabi222
-  'Yeshwanth Ambati':
-    git_link: https://github.com/Network
-  'Lawrence Bird':
-    git_link: https://github.com/TheBirdsNest
-  'Chad Geary':
-    git_link: https://github.com/chadgeary
-  'Wayne Werner':
-    git_link: https://github.com/waynew
-
-  'Megan Wilhite':
-    git_link: https://github.com/ch3ll
-  'Balvinder Singh Rawat':
-    git_link: https://github.com/balrawat
-
 homepage:
   term: 1
   timeline:
@@ -175,3 +104,74 @@ workgroups:
       'Google Group': https://groups.google.com/a/saltstack.com/forum/#!forum/salt-ssh
     meeting_details: []
     notes: []
+
+contributors:
+  'Daniel Wallace':
+    git_link: https://github.com/gtmanfred
+  'Swaminathan':
+    git_link: https://github.com/swamguru
+  'Nick Garber':
+    git_link: https://github.com/nickgarber
+  'Ben Gridley':
+    git_link: https://github.com/bgridley
+  'Cedric Bosdonnat':
+    git_link: https://github.com/cbosdo
+  'Adam C. Greenfield':
+    git_link: https://github.com/admgre
+  'Peter Norton':
+    git_link: https://github.com/pcn
+  'Vernon Cole':
+    git_link: https://github.com/vernondcole
+  'Prashanth Goud B':
+    git_link: https://github.com/prashanthbgoud
+
+  'Wesley Whetstone':
+    git_link: https://github.com/weswhet
+  Joaquín:
+    git_link: https://github.com/lctrkid
+  'Brian LaShomb':
+    git_link: https://github.com/lashomb
+  'Shea Craig':
+    git_link: https://github.com/sheagcraig
+
+  Shane:
+    git_link: https://github.com/twangboy
+  'Prashant Goud B':
+    git_link: https://github.com/prashanthbgoud
+  'Rares POP':
+    git_link: https://github.com/rares-pop
+  'rigel marcinik':
+    git_link: https://github.com/rmarcinik
+  'Markus':
+     git_link: NULL
+  'Joseph Eacott':
+    git_link: https://github.com/xeacott
+  'Chad McMarrow':
+    git_link: https://github.com/cmcmarrow
+
+  'Mihai Dinca':
+    git_link: https://github.com/dincamihai
+  'Pablo Suárez Hernández':
+    git_link: https://github.com/meaksh
+  'Jochen Breuer':
+    git_link: https://github.com/brejoc
+  'Alberto Planas':
+    git_link: https://github.com/aplanas
+
+  'Mircea Ulinic':
+    git_link: NULL
+  'Andrew Dampf':
+    git_link: https://github.com/wasabi222
+  'Yeshwanth Ambati':
+    git_link: https://github.com/Network
+  'Lawrence Bird':
+    git_link: https://github.com/TheBirdsNest
+  'Chad Geary':
+    git_link: https://github.com/chadgeary
+  'Wayne Werner':
+    git_link: https://github.com/waynew
+
+  'Megan Wilhite':
+    git_link: https://github.com/ch3ll
+  'Balvinder Singh Rawat':
+    git_link: https://github.com/balrawat

@@ -5,7 +5,7 @@
 {% for group, info in wg.workgroups.items() %}
 add_{{ group }}_README:
   file.managed:
-    - name: {{ community_repo }}/work_groups/wg-{{ group }}/README.md
+    - name: {{ community_repo }}/working_groups/wg-{{ group }}/README.md
     - source: salt://group_template.sls
     - makedirs: True
     - template: jinja
