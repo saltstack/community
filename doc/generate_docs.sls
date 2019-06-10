@@ -1,4 +1,4 @@
-{%- import_yaml "work_group_raw_data.yaml" as wg %}
+{%- import_yaml "working_groups_raw_data.yaml" as wg %}
 
 {%- set community_repo = '/'.join(opts['file_root'].split('/')[:-1]) %}
 
