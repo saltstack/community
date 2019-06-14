@@ -12,6 +12,7 @@
 * [Peter Norton](https://github.com/pcn)
 * [Vernon Cole](https://github.com/vernondcole)
 * [Prashanth Goud B](https://github.com/prashanthbgoud)
+* [Tyler Johnson](https://github.com/Akm0d)
 
 ## Project Board
 [Github Project](https://github.com/saltstack/community/projects/1)
