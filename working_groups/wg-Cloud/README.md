@@ -22,5 +22,9 @@
 * [Google Group](https://groups.google.com/forum/#!forum/salt-cloud)
 
 ## Meeting Details
+* [2019-June-14](meeting-notes/2019-06-14.md) Meeting Notes
+
 
 ## Notes
+  
+
