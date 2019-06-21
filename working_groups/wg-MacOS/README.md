@@ -16,6 +16,6 @@
 * [Google Group](https://groups.google.com/a/saltstack.com/d/forum/salt-mac)
 
 ## Meeting Details
-* [11 pm 3rd Tuesday of every month](https://zoom.us/j/608412316)
+* [Click to add the Salt Community Events Google calendar to see the meeting details](https://calendar.google.com/calendar?cid=c2FsdHN0YWNrLmNvbV9tZDczYzN1ZmNzMmVxYnNtbW5pa2U0ZW04MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 ## Notes
