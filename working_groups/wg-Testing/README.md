@@ -17,6 +17,6 @@
 * [Google Group](https://groups.google.com/a/saltstack.com/forum/#!forum/salt-testing)
 
 ## Meeting Details
-* [9 AM MT, Every month on the Second Wed](https://zoom.us/j/118522625)
+* [Click to add the Salt Community Events Google calendar to see the meeting details](https://calendar.google.com/calendar?cid=c2FsdHN0YWNrLmNvbV9tZDczYzN1ZmNzMmVxYnNtbW5pa2U0ZW04MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 ## Notes
