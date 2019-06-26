@@ -17,6 +17,8 @@ workgroups:
       - 'Peter Norton'
       - 'Vernon Cole'
       - 'Prashanth Goud B'
+      - 'Tyler Johnson'
+      - 'Michael Verhulstm'
     project_board: https://github.com/saltstack/community/projects/1
     contacts:
       Slack: https://saltstackcommunity.slack.com/messages/C7KKMMYDQ/
@@ -127,6 +129,10 @@ contributors:
     git_link: https://github.com/vernondcole
   'Prashanth Goud B':
     git_link: https://github.com/prashanthbgoud
+  'Tyler Johnson':
+    git_link: https://github.com/Akm0d
+  'Michael Verhulstm':
+    git_link: https://github.com/verhulstm
 
   'Wesley Whetstone':
     git_link: https://github.com/weswhet
