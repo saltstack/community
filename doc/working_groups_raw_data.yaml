@@ -18,7 +18,7 @@ workgroups:
       - 'Vernon Cole'
       - 'Prashanth Goud B'
       - 'Tyler Johnson'
-      - 'Michael Verhulstm'
+      - 'Michael Verhulst'
     project_board: https://github.com/saltstack/community/projects/1
     contacts:
       Slack: https://saltstackcommunity.slack.com/messages/C7KKMMYDQ/
@@ -131,7 +131,7 @@ contributors:
     git_link: https://github.com/prashanthbgoud
   'Tyler Johnson':
     git_link: https://github.com/Akm0d
-  'Michael Verhulstm':
+  'Michael Verhulst':
     git_link: https://github.com/verhulstm
 
   'Wesley Whetstone':
