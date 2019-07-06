@@ -1,5 +1,11 @@
 # SaltStack Community
+
+* Don't update the Readme files directly. Check the doc folder to see instructions on how to update*
+
 ## Working Groups
+
+A Working Group is a small group of individuals who come together with a common goal and work towards achieving that goal within a predetermined amount of time. It’s an opportunity for the Salt community to lead Salt projects and be part of the process in its entirety.
+
 ### Here's the list of active working groups and their respective Captains.
 {%- for group, info in workgroups.items() %}
 {%- set group_link = '[' + group + '](https://github.com/saltstack/community/tree/master/working_groups/wg-' + group + ')' %}
@@ -11,24 +17,6 @@
 {%- for activity  in homepage.timeline %}
 * {{ activity }}
 {%- endfor %}
-
-- Feature Name: Working Group
-- Start Date: 2019-05-16
-- SEP Status: Draft
-
-# Summary
-[summary]: #summary
-
-Engage with the Salt community to get feedback on working groups
-
-# Motivation
-[motivation]: #motivation
-
-Salt's first working groups will convene by mid-June 2019. In order to benefit the participants of current and future working groups as well as those administering them, all working group details will be added as a README document in the repo `saltstack/community`.
-
-# Working Groups
-
-A Working Group is a small group of individuals who come together with a common goal and work towards achieving that goal within a predetermined amount of time. It’s an opportunity for the Salt community to lead Salt projects and be part of the process in its entirety.
 
 ## Eligibility to participate
 
