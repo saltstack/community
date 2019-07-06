@@ -1,6 +1,6 @@
 # SaltStack Community
 
-* Don't update the Readme files directly. Check the doc folder to see instructions on how to update*
+Don't update the Readme files directly. Check the doc folder to see instructions on how to update
 
 ## Working Groups
 
@@ -49,7 +49,7 @@ Based on the applications submitted, Salt chooses the final working group member
 
 Below is the approximate timeline for how long each working group term will last. The actual timeline may differ. For example, the Testing and Release Working Group might decide to convene immediately after a major release and dissolve after the next major release.
 
-![Working Group Timelines](./diagrams/Working-group-timelines.svg)
+![Working Group Timelines](./doc/diagrams/Working-group-timelines.svg)
 
 
 
