@@ -17,11 +17,14 @@ workgroups:
       - 'Peter Norton'
       - 'Vernon Cole'
       - 'Prashanth Goud B'
+      - 'Tyler Johnson'
+      - 'Michael Verhulst'
     project_board: https://github.com/saltstack/community/projects/1
     contacts:
       Slack: https://saltstackcommunity.slack.com/messages/C7KKMMYDQ/
       'Google Group': https://groups.google.com/forum/#!forum/salt-cloud
-    meeting_details: []
+    meeting_details:
+      - '[Click to add the Salt Community Events Google calendar to see the meeting details](https://calendar.google.com/calendar?cid=c2FsdHN0YWNrLmNvbV9tZDczYzN1ZmNzMmVxYnNtbW5pa2U0ZW04MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)'
     notes: []
 
   MacOS:
@@ -127,6 +130,10 @@ contributors:
     git_link: https://github.com/vernondcole
   'Prashanth Goud B':
     git_link: https://github.com/prashanthbgoud
+  'Tyler Johnson':
+    git_link: https://github.com/Akm0d
+  'Michael Verhulst':
+    git_link: https://github.com/verhulstm
 
   'Wesley Whetstone':
     git_link: https://github.com/weswhet
@@ -146,7 +153,7 @@ contributors:
   'rigel marcinik':
     git_link: https://github.com/rmarcinik
   'Markus':
-     git_link: NULL
+     git_link: https://github.com/markuskramerIgitt
   'Joseph Eacott':
     git_link: https://github.com/xeacott
   'Chad McMarrow':
