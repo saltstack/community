@@ -1,35 +1,23 @@
 # SaltStack Community
+
+Don't update the Readme files directly. Check the doc folder to see instructions on how to update
+
 ## Working Groups
+
+A Working Group is a small group of individuals who come together with a common goal and work towards achieving that goal within a predetermined amount of time. It’s an opportunity for the Salt community to lead Salt projects and be part of the process in its entirety.
+
 ### Here's the list of active working groups and their respective Captains.
 * [Cloud](https://github.com/saltstack/community/tree/master/working_groups/wg-Cloud): [Daniel Wallace](https://github.com/gtmanfred)
-* [Testing](https://github.com/saltstack/community/tree/master/working_groups/wg-Testing): [Mihai Dinca](https://github.com/dincamihai)
-* [Windows](https://github.com/saltstack/community/tree/master/working_groups/wg-Windows): [Shane](https://github.com/twangboy)
-* [SSH](https://github.com/saltstack/community/tree/master/working_groups/wg-SSH): [Megan Wilhite](https://github.com/ch3ll)
 * [MacOS](https://github.com/saltstack/community/tree/master/working_groups/wg-MacOS): [Wesley Whetstone](https://github.com/weswhet)
+* [Windows](https://github.com/saltstack/community/tree/master/working_groups/wg-Windows): [Shane](https://github.com/twangboy)
+* [Testing](https://github.com/saltstack/community/tree/master/working_groups/wg-Testing): [Mihai Dinca](https://github.com/dincamihai)
 * [Networking](https://github.com/saltstack/community/tree/master/working_groups/wg-Networking): [Mircea Ulinic](None)
+* [SSH](https://github.com/saltstack/community/tree/master/working_groups/wg-SSH): [Megan Wilhite](https://github.com/ch3ll)
 
 ## Term 1 Timeline
 * Working group announced **May 31st**
 * Working group convenes **June 15th**
 * Working group dissolves **Next major release (Sodium)**
-
-- Feature Name: Working Group
-- Start Date: 2019-05-16
-- SEP Status: Draft
-
-# Summary
-[summary]: #summary
-
-Engage with the Salt community to get feedback on working groups
-
-# Motivation
-[motivation]: #motivation
-
-Salt's first working groups will convene by mid-June 2019. In order to benefit the participants of current and future working groups as well as those administering them, all working group details will be added as a README document in the repo `saltstack/community`.
-
-# Working Groups
-
-A Working Group is a small group of individuals who come together with a common goal and work towards achieving that goal within a predetermined amount of time. It’s an opportunity for the Salt community to lead Salt projects and be part of the process in its entirety.
 
 ## Eligibility to participate
 
@@ -61,7 +49,7 @@ Based on the applications submitted, Salt chooses the final working group member
 
 Below is the approximate timeline for how long each working group term will last. The actual timeline may differ. For example, the Testing and Release Working Group might decide to convene immediately after a major release and dissolve after the next major release.
 
-![Working Group Timelines](./diagrams/Working-group-timelines.svg)
+![Working Group Timelines](./doc/diagrams/Working-group-timelines.svg)
 
 
 
