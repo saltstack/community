@@ -33,6 +33,7 @@ workgroups:
       - 'Joaquín'
       - 'Brian LaShomb'
       - 'Shea Craig'
+      - 'Kris Anthony'
     project_board: https://github.com/saltstack/community/projects/2
     contacts:
       Slack: https://saltstackcommunity.slack.com/messages/C8VH92RJT
@@ -86,6 +87,7 @@ workgroups:
       - 'Chad Geary'
       - 'Swaminathan'
       - 'Wayne Werner'
+      - 'Zach Moody'
     project_board: https://github.com/saltstack/community/projects/7
     contacts:
       Slack: https://saltstackcommunity.slack.com/messages/C7KPR0ZDK
@@ -143,6 +145,8 @@ contributors:
     git_link: https://github.com/lashomb
   'Shea Craig':
     git_link: https://github.com/sheagcraig
+  'Kris Anthony':
+    git_link: https://github.com/Kris-anthony
 
   Shane:
     git_link: https://github.com/twangboy
@@ -180,6 +184,8 @@ contributors:
     git_link: https://github.com/chadgeary
   'Wayne Werner':
     git_link: https://github.com/waynew
+  'Zach Moody':
+    git_link: https://github.com/zachmoody
 
   'Megan Wilhite':
     git_link: https://github.com/ch3ll
