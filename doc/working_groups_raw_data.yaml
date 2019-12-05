@@ -7,10 +7,9 @@ homepage:
 
 workgroups:
   Cloud:
-    captain: 'Daniel Wallace'
+    captain: 'Nick Garber'
     contributors:
       - 'Swaminathan'
-      - 'Nick Garber'
       - 'Ben Gridley'
       - 'Cedric Bosdonnat'
       - 'Adam C. Greenfield'
@@ -19,6 +18,7 @@ workgroups:
       - 'Prashanth Goud B'
       - 'Tyler Johnson'
       - 'Michael Verhulst'
+      - 'Daniel Wallace'
     project_board: https://github.com/saltstack/community/projects/1
     contacts:
       Slack: https://saltstackcommunity.slack.com/messages/C7KKMMYDQ/
