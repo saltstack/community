@@ -7,7 +7,7 @@ Don't update the Readme files directly. Check the doc folder to see instructions
 A Working Group is a small group of individuals who come together with a common goal and work towards achieving that goal within a predetermined amount of time. It’s an opportunity for the Salt community to lead Salt projects and be part of the process in its entirety.
 
 ### Here's the list of active working groups and their respective Captains.
-* [Cloud](https://github.com/saltstack/community/tree/master/working_groups/wg-Cloud): [Daniel Wallace](https://github.com/gtmanfred)
+* [Cloud](https://github.com/saltstack/community/tree/master/working_groups/wg-Cloud): [Nick Garber](https://github.com/nickgarber)
 * [MacOS](https://github.com/saltstack/community/tree/master/working_groups/wg-MacOS): [Wesley Whetstone](https://github.com/weswhet)
 * [Windows](https://github.com/saltstack/community/tree/master/working_groups/wg-Windows): [Shane](https://github.com/twangboy)
 * [Testing](https://github.com/saltstack/community/tree/master/working_groups/wg-Testing): [Mihai Dinca](https://github.com/dincamihai)

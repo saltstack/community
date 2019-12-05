@@ -1,11 +1,10 @@
 # Cloud Working Group
 
 ## Captain
-[Daniel Wallace](https://github.com/gtmanfred)
+[Nick Garber](https://github.com/nickgarber)
 
 ## Participants
 * [Swaminathan](https://github.com/swamguru)
-* [Nick Garber](https://github.com/nickgarber)
 * [Ben Gridley](https://github.com/bgridley)
 * [Cedric Bosdonnat](https://github.com/cbosdo)
 * [Adam C. Greenfield](https://github.com/admgre)
@@ -14,6 +13,7 @@
 * [Prashanth Goud B](https://github.com/prashanthbgoud)
 * [Tyler Johnson](https://github.com/Akm0d)
 * [Michael Verhulst](https://github.com/verhulstm)
+* [Daniel Wallace](https://github.com/gtmanfred)
 
 ## Project Board
 [Github Project](https://github.com/saltstack/community/projects/1)
