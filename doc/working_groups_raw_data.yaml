@@ -7,7 +7,7 @@ homepage:
 
 workgroups:
   Cloud:
-    captain: 'Nick Garber'
+    captain: 'Nick Hughes'
     contributors:
       - 'Swaminathan'
       - 'Ben Gridley'
@@ -118,8 +118,8 @@ contributors:
     git_link: https://github.com/gtmanfred
   'Swaminathan':
     git_link: https://github.com/swamguru
-  'Nick Garber':
-    git_link: https://github.com/nickgarber
+  'Nick Hughes':
+    git_link: https://github.com/nicholasmhughes
   'Ben Gridley':
     git_link: https://github.com/bgridley
   'Cedric Bosdonnat':
