@@ -1,7 +1,7 @@
 # Cloud Working Group
 
 ## Captain
-[Nick Garber](https://github.com/nickgarber)
+[Nick Hughes](https://github.com/nicholasmhughes)
 
 ## Participants
 * [Swaminathan](https://github.com/swamguru)
@@ -14,6 +14,7 @@
 * [Tyler Johnson](https://github.com/Akm0d)
 * [Michael Verhulst](https://github.com/verhulstm)
 * [Daniel Wallace](https://github.com/gtmanfred)
+* [Nick Garber](https://github.com/nickgarber)
 
 ## Project Board
 [Github Project](https://github.com/saltstack/community/projects/1)
