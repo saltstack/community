@@ -1,7 +1,5 @@
 # SaltStack Community
 
-Don't update the Readme files directly. Check the doc folder to see instructions on how to update
-
 ## Working Groups
 
 A Working Group is a small group of individuals who come together with a common goal and work towards achieving that goal within a predetermined amount of time. It’s an opportunity for the Salt community to lead Salt projects and be part of the process in its entirety.
