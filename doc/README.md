@@ -1,4 +1,8 @@
 # Doc Generation 
+
+> **NOTE**: _This README can be ignored, as `salt` is no longer a prereq tool to_
+> _contribute to this repo._
+
 ## How to Generate Docs
 * Install Salt.
 * Open a terminal with admin privileges. 
