@@ -7,21 +7,15 @@ A Working Group is a small group of individuals who come together with a common 
 ### Here's the list of active working groups and their respective Captains.
 * [Cloud](https://github.com/saltstack/community/tree/master/working_groups/wg-Cloud): [Nick Hughes](https://github.com/nicholasmhughes)
 * [MacOS](https://github.com/saltstack/community/tree/master/working_groups/wg-MacOS): [Wesley Whetstone](https://github.com/weswhet)
-* [Windows](https://github.com/saltstack/community/tree/master/working_groups/wg-Windows): [Shane](https://github.com/twangboy)
-* [Testing](https://github.com/saltstack/community/tree/master/working_groups/wg-Testing): [Mihai Dinca](https://github.com/dincamihai)
-* [Networking](https://github.com/saltstack/community/tree/master/working_groups/wg-Networking): [Mircea Ulinic](None)
-* [SSH](https://github.com/saltstack/community/tree/master/working_groups/wg-SSH): [Megan Wilhite](https://github.com/ch3ll)
+* [Windows](https://github.com/saltstack/community/tree/master/working_groups/wg-Windows): [Markus](https://github.com/markuskramerIgitt)
+* [Testing](https://github.com/saltstack/community/tree/master/working_groups/wg-Testing): Needed
 
-## Term 1 Timeline
-* Working group announced **May 31st**
-* Working group convenes **June 15th**
-* Working group dissolves **Next major release (Sodium)**
 
 ## Eligibility to participate
 
 Salt community members are eligible to be part of a working group if they have exhibited interest in working on the Salt project by raising either 1 or more PR(s), issue(s) or SEP(s) (Salt Enhancement Proposal).
 
-In addition, a working group applicant is a Subject Matter Expert (SME) in areas such as Windows, Cloud, Networking or SSH
+In addition, a working group applicant is a Subject Matter Expert (SME) in areas impacting the group.
 
 If you want to lead or be part of a different working group then the ones mentioned above, Salt would be happy to include that as part of initial working groups, provided Salt receives enough interest from others to participate.
 
