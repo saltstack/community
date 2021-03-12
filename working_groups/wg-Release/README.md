@@ -10,6 +10,7 @@
 * Make the Salt release process more transparent
 * Identify pain points in the release process
 * Improve the workflow of releasing Salt
+* Provide a place for different OS vendors to discuss about the Salt release process
 
 
 # Objectives/Goals
