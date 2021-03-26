@@ -24,6 +24,5 @@
 * [Google Group](https://groups.google.com/forum/#!forum/salt-cloud)
 
 ## Meeting Details
-* [Click to add the Salt Community Events Google calendar to see the meeting details](https://calendar.google.com/calendar?cid=c2FsdHN0YWNrLmNvbV9tZDczYzN1ZmNzMmVxYnNtbW5pa2U0ZW04MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-
+* You can get the Outlook Shared Calendar [HTML link](https://outlook.office365.com/owa/calendar/105f69bacd4541baa849529aed37eb2d@vmware.com/434ec2155b2b4cce90144c87f0dd03d56626754050155294962/calendar.html) or the [ICS link](https://outlook.office365.com/owa/calendar/105f69bacd4541baa849529aed37eb2d@vmware.com/434ec2155b2b4cce90144c87f0dd03d56626754050155294962/calendar.ics) but these aren't great, there is also this new page with details of all [Working Groups](https://saltproject.io/home/working-groups/)
 ## Notes
