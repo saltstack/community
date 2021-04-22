@@ -19,7 +19,7 @@
 
 ## Contact
 * [Slack](https://saltstackcommunity.slack.com/messages/C7KKMMYDQ/)
-* [Salt-Cloud](salt-cloud@saltstack.com) email contacts 
+* [Working-Groups](working-groups@saltstack.com) email contacts Sage Robins and Janae Andruss
 
 ## Meeting Details
 Currently, the group voted to meet on the 2nd Monday every month at 4 PM Moutain, but due to inactivity the group is on pause.
