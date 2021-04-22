@@ -16,13 +16,13 @@
 * [Daniel Wallace](https://github.com/gtmanfred)
 * [Nick Garber](https://github.com/nickgarber)
 
-## Project Board
-[Github Project]()
 
 ## Contact
 * [Slack](https://saltstackcommunity.slack.com/messages/C7KKMMYDQ/)
-* [Salt-Cloud](salt-cloud@saltstack.com)
+* [Salt-Cloud](salt-cloud@saltstack.com) email contacts 
 
 ## Meeting Details
+Currently, the group voted to meet on the 2nd Monday every month at 4 PM Moutain, but due to inactivity the group is on pause.
+
 * You can get the Outlook Shared Calendar [HTML link](https://outlook.office365.com/owa/calendar/105f69bacd4541baa849529aed37eb2d@vmware.com/434ec2155b2b4cce90144c87f0dd03d56626754050155294962/calendar.html) or the [ICS link](https://outlook.office365.com/owa/calendar/105f69bacd4541baa849529aed37eb2d@vmware.com/434ec2155b2b4cce90144c87f0dd03d56626754050155294962/calendar.ics) but these aren't great, there is also this new page with details of all [Working Groups](https://saltproject.io/home/working-groups/)
 
