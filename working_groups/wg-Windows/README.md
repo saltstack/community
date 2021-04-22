@@ -16,7 +16,7 @@
 
 ## Contact
 * [Slack](https://saltstackcommunity.slack.com/messages/C7U9FLK8S)
-* [Google Group](https://groups.google.com/a/saltstack.com/forum/#!forum/salt-windows)
+* [Salt-Windows](mailto:salt-windows@saltstack.com)
 
 ## Meeting Details
 * The group meets the 2nd Tuesday monthly
@@ -25,3 +25,4 @@
 
 
 ## Notes
+https://github.com/saltstack/community/tree/master/working_groups/wg-Windows/meeting-notes
